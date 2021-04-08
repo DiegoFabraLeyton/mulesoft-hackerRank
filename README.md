@@ -20,6 +20,7 @@ que son
  
  Falto implementar inyección de dependencias para trabajar solo con las interfaces, pero en la clase Main quedaron inicializados
  
- Falto implementar unit-test, falta de tiempo
+ Falto implementar unit-test
+
  
  
