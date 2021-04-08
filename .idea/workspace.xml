@@ -159,6 +159,11 @@
             <path>
               <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="mulesoft-hackerRank" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mulesoft-hackerRank" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -263,12 +268,12 @@
       <workItem from="1617651362596" duration="741000" />
       <workItem from="1617760227795" duration="15000" />
       <workItem from="1617891812037" duration="2551000" />
-      <workItem from="1617896205633" duration="237000" />
+      <workItem from="1617896205633" duration="504000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14563000" />
+    <option name="totallyTimeSpent" value="14817000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
